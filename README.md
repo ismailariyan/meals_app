@@ -1,4 +1,4 @@
-# MyApp
+# Meal App
 
 MyApp is a Flutter application that allows users to manage their meals and recipes.
 
@@ -24,13 +24,8 @@ MyApp is a Flutter application that allows users to manage their meals and recip
 
 ## Dependencies
 
-- Flutter: [version]
-- [Other dependencies]
+- Riverpod
 
 ## Contributing
 
 Contributions are welcome! If you find any bugs or have suggestions for improvements, please open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
