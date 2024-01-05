@@ -4,7 +4,8 @@ import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:meals_app/screens/tabs.dart';
 
 final theme = ThemeData(
-  useMaterial3: true,
+  //NO need to use this as it is enable by default
+  // useMaterial3: true,
   colorScheme: ColorScheme.fromSeed(
     brightness: Brightness.dark,
     seedColor: const Color.fromARGB(255, 7, 182, 205),

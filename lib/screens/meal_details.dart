@@ -48,6 +48,7 @@ class MealDetailsScreen extends ConsumerWidget {
       body: SingleChildScrollView(
         child: Column(
           children: [
+            //Hero animation to animate one widget across different screens
             Hero(
               tag: meal.id,
               child: Image.network(
